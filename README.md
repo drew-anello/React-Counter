@@ -11,4 +11,4 @@ neither have I but I wanted to get some practice in with state so I built this. 
 + React
 + VS Code
 + useState 
-+ SASS
++ SCSS
